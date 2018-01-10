@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="API_KEY">AIzaSyD1hYS8FNGhPk0J-BYvOLj-6risq9KtO7M</string>
+    <string name="search_button">SEARCH</string>
+    <string name="retry_button">RETRY</string>
+    <string name="search_hint">Enter a topic or book title</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_more_books">No more books.</string>
+</resources>
